@@ -1,4 +1,4 @@
-# MERN-Shopping-List
+# MERN-Shopping-List-Tutorial
 
 Tech: MongoDB - Express - React - Nodejs - Redux
 
